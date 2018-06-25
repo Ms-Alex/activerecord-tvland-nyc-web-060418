@@ -1,5 +1,6 @@
 require_relative 'spec_helper'
 
+
 describe Network do
   let(:network) { Network.new }
 
